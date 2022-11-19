@@ -10,5 +10,5 @@ Create and centralize a database that is automatically enriched with information
 The configuration of our systems would be much more reliable.
 Allow us to share "the little secrets" of our configuration variables, and to enrich ourselves with knowledge of each other.
 
-You can convert the .reg file (format .bat, vbs, au3) using tool :
+You can convert the .reg file (format .bat, vbs, au3) using this tool :
 https://www.sordum.org/8478/reg-converter-v1-2/
